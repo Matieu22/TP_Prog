@@ -1,0 +1,44 @@
+/*aqui declaramos que el color del fondo sea de color beige pero si no quisieramos un color hariamos lo siguiente:*/
+/*background: url("lugar de procedencia de la imagen") no-repeat center center/cover;*/
+.cuerpo{
+
+    background-color: burlywood;
+  }
+
+
+/*aqui utilizamos la funcion de id para decirle al navegador que ponga todo lo que tenga la id de de "titulo" lo ponga de color rojo*/
+#titulo{
+  color: red;
+}
+
+.encabezado{
+  background-color: brown;
+}
+
+/*aqui le doy un borde al titulo*/
+#titulo{
+
+  border: 5px silver;
+  border-style: inset;
+  border-width: 5px;
+}
+
+
+
+.lorem{
+  font-style: oblique;
+  color: chocolate;
+  border: 5px steelblue;
+  border-style:outset
+}
+
+ul{
+  color:  darkgreen;
+}
+
+
+
+  
+body{
+  background-color: bg-success
+}
