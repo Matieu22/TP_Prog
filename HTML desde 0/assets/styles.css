@@ -1,13 +1,8 @@
-/*aqui declaramos que el color del fondo sea de color beige pero si no quisieramos un color hariamos lo siguiente:*/
-/*background: url("lugar de procedencia de la imagen") no-repeat center center/cover;*/
 .cuerpo{
 
     background-color: burlywood;
   }
 
-
-/*aqui utilizamos la funcion de id para decirle al navegador que ponga todo lo que tenga la id de de "titulo" lo ponga de color rojo*/
-#titulo{
   color: red;
 }
 
